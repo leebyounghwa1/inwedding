@@ -1,1 +1,2 @@
-# inwedding
+# wedding
+Wedding Invitation
